@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background: black;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+element.style {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
